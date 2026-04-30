@@ -1,6 +1,6 @@
 # 🍽️ Yemek Tarifleri Uygulaması
 
-Bu proje React, JavaScript ve Bootstrap kullanılarak geliştirilmiş bir yemek tarifleri uygulamasıdır.
+Bu proje React, JavaScript ve Bootstrap kullanılarak geliştirilmiş bir yemek tarifleri uygulamasıdır. 
 
 ## Özellikler
 
@@ -26,10 +26,6 @@ Bu proje React, JavaScript ve Bootstrap kullanılarak geliştirilmiş bir yemek 
   <img src="images/image-1.png" width="45%"/>
   <img src="images/image-2.png" width="45%"/>
 </p>
-
-## Canlı Demo
-
---
 
 ## Kurulum
 
