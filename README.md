@@ -23,11 +23,11 @@ Bu proje React, JavaScript ve Bootstrap kullanılarak geliştirilmiş bir yemek 
 ## Ekran Görüntüsü
 
 <p align="center">
-  <img src="images/screenshot1.png" width="600"/>
+  <img src="images/image-1.png" width="600"/>
 </p>
 
 <p align="center">
-  <img src="images/screenshot2.png" width="600"/>
+  <img src="images/image-2.png" width="600"/>
 </p>
 
 ## Canlı Demo
