@@ -23,11 +23,8 @@ Bu proje React, JavaScript ve Bootstrap kullanılarak geliştirilmiş bir yemek 
 ## Ekran Görüntüsü
 
 <p align="center">
-  <img src="images/image-1.png" width="400"/>
-</p>
-
-<p align="center">
-  <img src="images/image-2.png" width="400"/>
+  <img src="images/image-1.png" width="45%"/>
+  <img src="images/image-2.png" width="45%"/>
 </p>
 
 ## Canlı Demo
