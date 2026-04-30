@@ -22,12 +22,17 @@ Bu proje React, JavaScript ve Bootstrap kullanılarak geliştirilmiş bir yemek 
 
 ## Ekran Görüntüsü
 
-![Uygulama Görüntüsü](images/image-1.png)
-![Uygulama Görüntüsü](images/image-2.png)
+<p align="center">
+  <img src="images/screenshot1.png" width="600"/>
+</p>
+
+<p align="center">
+  <img src="images/screenshot2.png" width="600"/>
+</p>
 
 ## Canlı Demo
 
-(Netlify linkini buraya ekleyeceksin)
+--
 
 ## Kurulum
 
